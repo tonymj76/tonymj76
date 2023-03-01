@@ -1,4 +1,4 @@
-### Hi there 👋, am [Anthony Anonde](https://anthony.anonde.dev)
+### Hi there 👋,
 
 
 ## I am a Teacher and a Full Stack Developer, that builds scalable application
